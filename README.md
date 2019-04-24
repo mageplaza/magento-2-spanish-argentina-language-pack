@@ -117,11 +117,13 @@ To download and install Spanish Argentina pack manually, you have to access to y
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/es_ar/es_AR.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/es_ar/`
 
-See this screenshot
+See this screenshot:
 
 ![Spanish Argentina pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **es_ar**
 
 #### Step 2: Flush cache
 
