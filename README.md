@@ -4,7 +4,7 @@
 
 Read more [Magento 2 Spanish Argentina Language Pack](https://www.mageplaza.com/magento-2-spanish-argentina-language-pack.html)
 
-![Mageplaza Spanish Argentina language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Spanish Argentina language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
